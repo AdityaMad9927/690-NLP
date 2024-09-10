@@ -1,0 +1,27 @@
+1. Which of the following is not an application of NLP?
+a. Image labeling
+b. Poetry generation
+c. Sentimental analysis
+d. E-mail classification
+Answer: Image Labeling
+
+2. Which of the following is not an NLP task?
+a. Tokenization
+b. Stop word removal
+c. Part-of-speech tagging
+d. Image segmentation
+Answer: Image Segmentation
+
+3. Which of the following is not a disadvantage of rule-based approaches for NLP?
+a. Not flexible
+b. Not scalable
+c. Requires huge dataset
+d. None of the above
+Answer: Requires Huge Dataset
+
+4. What are the two major types of NLP approaches?
+The major two categories of NLP approaches are:
+
+1. **Rule-Based Approaches**: These rely on manually crafted linguistic rules for language processing. They use pre-defined grammar and dictionaries for text analysis and interpretation. Although they are more precise, thus being able to perform certain tasks, they lack flexibility or scalability.
+
+2. **Statistical and Machine Learning-Based Approaches**: These utilize algorithms that automatically learn the pattern of language from large datasets. Examples in this class include machine learning models, deep learning, and probabilistic models. They are generally more flexible and scalable than rule-based approaches but often suffer from their usual requirement for large amounts of data to perform well.
